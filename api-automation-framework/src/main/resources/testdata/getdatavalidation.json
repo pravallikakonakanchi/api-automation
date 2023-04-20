@@ -1,0 +1,14 @@
+{
+  "getdata_TC01": [
+    "201",
+    "Success"
+  ],
+  "getdata_TC02": [
+    "401",
+    "Unauthorized"
+  ],
+  "getdata_TC03": [
+    "404",
+    "Not Found"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "updateData_TC01": [
+    "201",
+    "Success"
+  ],
+  "updateData_TC02": [
+    "401",
+    "Unauthorized"
+  ],
+  "updateData_TC03": [
+    "404",
+    "Not Found"
+    
+  ]
+}

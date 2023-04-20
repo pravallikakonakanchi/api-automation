@@ -1,0 +1,24 @@
+{
+  "prod": {
+    "URL": "https://us-central1-qa01-tekarch-accmanager.cloudfunctions.net",
+    "endpoint": {
+      "login": "/login",
+      "adddata": "addData",
+      "getdata": "getdata",
+      "updatedata": "updaterData",
+      "deletedata": "deleteData",
+      "logout": "/logout"
+    }
+  },
+  "qa": {
+    "URL": "https://qa-central1-qa01-tekarch-accmanager.cloudfunctions.net",
+    "endpoint": {
+      "login": "/login",
+      "adddata": "addData",
+      "getdata": "getdata",
+      "updatedata": "updaterData",
+      "deletedata": "deleteData",
+      "logout": "/logout"
+    }
+  }
+}

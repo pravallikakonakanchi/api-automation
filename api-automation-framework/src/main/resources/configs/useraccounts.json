@@ -1,0 +1,24 @@
+{
+  "prod": {
+    "valid": {
+      "username": "mar23pravalika@ta.com",
+      "password": "231234"
+    },
+    "invalid": {
+    
+      "username":"mar23pravalika@ta.com",
+      "password": "231231"
+    }
+  },
+  "qa": {
+    "valid": {
+      "username": "mar23pravalika@ta.com",
+      "password": "231234"
+    },
+    "invalid": {
+      "username":"mar23pravalika@ta.com",
+      "password": "231238"
+    }
+  }
+  
+}

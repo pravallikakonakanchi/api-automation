@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name = "Sample test Suite">
+	<parameter name="bName" value="chrome"></parameter>
+	<parameter name="headless" value="false"></parameter>
+   <test name = "Sample test">
+      <classes>
+         <class name = "tests.LoginTest">
+            <methods>
+               <include name="loginErrorMessage" />
+            </methods>
+         </class>
+      </classes>
+   </test>
+</suite>

@@ -1,0 +1,14 @@
+ {
+  "addData_TC01": [
+    "201",
+    "Success"
+  ],
+  "addData_TC02": [
+    "401",
+    "Unauthorized"
+  ],
+  "addData_TC03": [
+    "404",
+    "Not Found"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "deleteData_TC01": [
+    "201",
+    "Success"
+  ],
+  "deleteData_TC02": [
+    "401",
+    "Unauthorized"
+  ],
+  "deleteData_TC03": [
+    "404",
+    "Not Found"
+    
+  ]
+}
